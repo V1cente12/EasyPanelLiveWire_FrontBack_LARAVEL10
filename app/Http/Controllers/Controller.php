@@ -11,6 +11,5 @@ class Controller extends BaseController
     use AuthorizesRequests, ValidatesRequests;
     
     public function livewire(){
-        dd("jdjdj")
         }
 }
